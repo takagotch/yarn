@@ -2,6 +2,9 @@
 ---
 https://yarnpkg.com/lang/en/
 
+###### bitbucket
+https://bitbucket.org/takagotch/rails-1st-settings/src/master/README.md
+
 ```
 choco install yarn
 scoop install yarn
