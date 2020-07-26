@@ -2,8 +2,12 @@
 ---
 https://yarnpkg.com/lang/en/
 
+https://classic.yarnpkg.com/ja/docs/install#centos-stable
+
 ###### bitbucket
 https://bitbucket.org/takagotch/rails-1st-settings/src/master/README.md
+
+
 
 ```
 choco install yarn
